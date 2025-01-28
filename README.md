@@ -1,8 +1,8 @@
 # 🌦️ Weather App UI
 
 <p align="center">
-    <img src="" alt="1" style="margin-bottom: 20px;"/>
-    <img src="" alt="2"/>
+    <img src="https://github.com/user-attachments/assets/2ce94b59-11ee-4be0-b5e0-45046662de69" alt="1" style="margin-bottom: 20px;"/>
+    <img src="https://github.com/user-attachments/assets/ccea9b23-22ba-4094-a044-a9457754e8c6" alt="2"/>
 </p>
 
 ## 📌 Description
